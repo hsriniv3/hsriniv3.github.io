@@ -1,4 +1,4 @@
-.animate-charcter {
+/* .animate-charcter {
     /* text-transform: uppercase; */
     background-image: linear-gradient(-225deg,
             #231557 0%,
@@ -16,7 +16,7 @@
     animation: textclip 2s linear infinite;
     display: inline-block;
     /* font-size: 50px; */
-}
+} */
 
 @keyframes textclip {
     to {
@@ -42,5 +42,5 @@
 }
 
 .alt-section {
-    background-color: #1b3144c7 ;
+    background-color: #1b3144e0 ;
 }
